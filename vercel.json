@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "پروانه زیبا",
+  "name": " پروانه زیبا بدرود",
   "rewrites": [
     { "source": "/(.*)", "destination": "/api/index" }
   ],
