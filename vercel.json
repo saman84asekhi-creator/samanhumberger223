@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "Bright Memory",
+  "name": "پروانه زیبا",
   "rewrites": [
     { "source": "/(.*)", "destination": "/api/index" }
   ],
